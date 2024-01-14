@@ -39,7 +39,7 @@ This project comes along with benefits that anyone would expect namely;
 
 The goals of this project proposal are as follows;
 
-(i)Expand our capacity and reach out into the global market in the future.
+(i)Expand our capacity and outreach to the global market in the future.
 
 (ii)Become a giant investment hub for investors to invest in agribusiness related activities in our region.
 
