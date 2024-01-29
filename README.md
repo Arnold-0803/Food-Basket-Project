@@ -60,7 +60,7 @@ The goals of this project proposal are as follows;
 
 #### (d)Delievery cost
 
-   Low cost of delivery and ensure the goods reaches at your door step.
+   Low cost of delivery and ensure the goods reaches the customer's door step.
 
 ##### (e)E-cash
 
