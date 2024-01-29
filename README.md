@@ -3,7 +3,8 @@
 # TITLE: FOOD BASKET KENYA(E-COMMERCE & AGRIBUSINESS)
 ## NAME: ARNOLD KIRITU
 
-### Project LInk: https://arnold-0803.github.io/Case-Project/
+### Project Link: https://arnold-0803.github.io/Case-Project/
+### Project Slide presentation: Business project presentation .pdf
 ## DATE:13/06/2023
 
 **INTRODUCTION**
