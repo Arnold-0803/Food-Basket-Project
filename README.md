@@ -46,23 +46,23 @@ The goals of this project proposal are as follows;
 
 **DELIVERABLES**
 
-(a)Development of website platform using technologies such as:
+#### (a)Development of website platform using technologies such as:
    
    Setting up a medium (website plartform) using various technologies to meet users expectations and user friendly.  
 
-(b)Users registraion
+#### (b)Users registraion
   
    Recognise all the users from the database that will be in place for efficient services.
 
-(c)Product packaging
+#### (c)Product packaging
 
    Well packaged products for good quality and easy transportion.
 
-(d)Delievery cost
+#### (d)Delievery cost
 
    Low cost of delivery and ensure the goods reaches at your door step.
 
-(e)E-cash
+##### (e)E-cash
 
    Payment of the service shall be conducted under electronic means of payment.
  
