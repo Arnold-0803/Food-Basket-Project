@@ -48,12 +48,21 @@ The goals of this project proposal are as follows;
 
 (a)Development of website platform using technologies such as:
    
-   ###### .  HTML
-   
-   ###### .  CSS
-    
-   ###### .  JAVASCRIPT and
-    
-   ###### .  REACT JS.
+   Setting up a medium (website plartform) using various technologies to meet users expectations and user friendly.  
 
-[Business project presentation .pdf](https://github.com/Arnold-0803/Case-Project/files/13907544/Business.project.presentation.pdf)
+(b)Users registraion
+  
+   Recognise all the users from the database that will be in place for efficient services.
+
+(c)Product packaging
+
+   Well packaged products for good quality and easy transportion.
+
+(d)Delievery cost
+
+   Low cost of delivery and ensure the goods reaches at your door step.
+
+(e)E-cash
+
+   Payment of the service shall be conducted under electronic means of payment.
+ 
