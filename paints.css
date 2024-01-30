@@ -411,6 +411,19 @@ section:nth-child(even) {
     font-size: 5rem;
     color: var(--black);
 }
+.order h3{
+    text-align: center;
+    color: var(--green);
+    font-size: 6rem;
+    padding-top: 1rem;
+}
+
+.order h1{
+    text-align: center;
+    color: var(--black);
+    font-size: 8rem;
+    padding-bottom: 1rem;
+}
 
 .order form {
     width: 170rem;
@@ -419,7 +432,7 @@ section:nth-child(even) {
     border: .1rem solid rgba(0, 0, 0, .2);
     background: #fff;
     padding: 4.5rem;
-    margin: 0 auto;
+    margin: 50px auto;
 }
 
 .order form .input-box {
