@@ -247,19 +247,19 @@ section:nth-child(even) {
     height: 100%;
 }
 
-.home .home-slide .slide .content span {
+.home h3 {
     color: var(--green);
     font-size: 8rem;
     font-weight: 500;
 }
 
-.home .home-slide .slide .content h1 {
+.home h1 {
     color: var(--black);
     font-size: 8rem;
     padding: .5rem 0;
 }
 
-.home .home-slide .slide .content p {
+.home p {
     color: var(--light-color);
     font-size: 5rem;
     font-weight: 500;
@@ -296,6 +296,12 @@ section:nth-child(even) {
     padding-bottom: 1rem;
 }
 
+.service .box span{
+    color: #000;
+    font-size: 20px;
+    font-weight: 700;
+}
+
 .about h3 {
     text-align: center;
     color: var(--green);
@@ -324,7 +330,7 @@ section:nth-child(even) {
     padding-bottom: 1rem;
 }
 
-.order h3 {
+.order h3{
     text-align: center;
     color: var(--green);
     font-size: 6rem;
@@ -459,7 +465,7 @@ section:nth-child(even) {
     display: block;
     padding: .5rem;
     font-size: 5rem;
-    color: var(--light-color);
+    color: #000;
 }
 
 .order form .input-box .input input,
@@ -564,7 +570,45 @@ section:nth-child(even) {
 
 
 
-@media (max-width:991px) {
+/* @media only screen and (max-width: 700px){
+    html {
+        font-size: 11%;
+    }
+
+    header {
+        padding: 2px 2.5px;
+    }
+
+    #header h2 {
+        font-size: 30px;
+    }
+
+    #header h2 span{
+        font-size: 15px;
+    }
+
+    #header #navigation a {
+        margin-left: 5rem;
+    }
+
+    section {
+        padding: 40rem 1%;
+    }
+
+    .service .container .box .ratings ion-icon {
+        font-size: 18px;
+    }
+
+    .btn {
+        padding: 2rem 4rem;
+        font-size: 18px;
+        
+    }
+} */
+
+
+
+@media only screen and (max-width:899px) {
     html {
         font-size: 11%;
     }
@@ -588,14 +632,149 @@ section:nth-child(even) {
     }
 
     section {
-        padding: 40rem 1%;
+        padding: 30px 5%;
     }
 
-    .ratings {
-        font-size: 10rem;
+    .home .home-slide .slide{
+        flex-basis: 100%;
+    }
+
+    .home h3 {
+        font-size: 25px;
+    }
+
+    .home h1 {
+        font-size: 40px;
+    }
+
+    .home p{
+        font-size: 18px;
+    }
+
+    .home .home-slide .slide .content,
+    .home .home-slide .slide .image{
+        flex-basis: 100%;
+    }
+
+    .service .container .box .ratings ion-icon {
+        font-size: 18px;
+    }
+
+    .btn {
+        padding: 2rem 4rem;
+        font-size: 20px;
+        margin-bottom: 10px;
+        
+    }
+
+    .service h3 {
+        font-size: 25px;
+    }
+
+    .service h1{
+        font-size: 30px;
+    }
+
+    .about h3{
+        font-size: 25px;
+    }
+
+    .about h1{
+        font-size: 30px;
+    }
+
+    .about .row{
+        margin-top: 20px;
+    }
+
+    .about .row .content h3{
+        font-size: 25px;
+    }
+
+    .about .row .content p{
+        font-size: 18px;
+    }
+
+    .about .row .image, .about .row .image{
+        flex-basis: 100%;
+    }
+
+    .about .row .content .icon-container .icon i {
+        font-size: 20px;
+    }
+    
+    .about .row .content .icon-container .icon span {
+        font-size: 15px;
+    }
+
+    .order h3{
+        font-size: 25px;
+    }
+
+    .order h1{
+        font-size: 30px;
+    }
+
+    .order form{
+        margin-top: 20px;
+    }
+
+    .order form .input-box .input span{
+        font-size: 20px;   
+    }
+
+    .order form .input-box .input input{
+        font-size: 18px;
+        padding: 10px 5px;
+    }
+
+    .order form .input-box .input textarea{
+        font-size: 18px;
+    }
+
+    .order form .input-box .input{
+        flex-basis: 100%;
+    }
+
+    .contact h3{
+        font-size: 25px;
+    }
+
+    .contact h1{
+        font-size: 30px;
+    }
+
+    .footer .box-container{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .footer .box-container .box{
+        margin-top: 15px;
+    }
+
+    .footer .box-container .box h3 {
+        font-size: 20px;
+    }
+
+    .footer .box-container .box a{
+        font-size: 18px;
+    }
+
+    .footer .box-container .box ion-icon{
+        font-size: 25px;
+    }
+
+    .footer .copyright{
+        font-size: 15px;
     }
 
 }
+
+
+
+
+
 
 @media (max-width:768px) {
 
@@ -685,39 +864,39 @@ section:nth-child(even) {
         top: 1.5rem;
     }
 
-    .btn {
+    /* .btn {
         font-size: 8rem;
-    }
+    } */
 
-    .home .home-slide .slide .content span {
+    /* .home .home-slide .slide .content span {
         font-size: 8rem;
         font-weight: 500;
-    }
+    } */
     
-    .home .home-slide .slide .content h1 {
+    /* .home .home-slide .slide .content h1 {
         font-size: 10rem;
-    }
+    } */
     
-    .home .home-slide .slide .content p {
+    /* .home .home-slide .slide .content p {
         font-size: 8rem;
         font-weight: 500;
-    }
+    } */
 
-    .sub-title {
+    /* .sub-title {
         font-size: 8rem;
     }
 
     .title {
         font-size: 10rem;
-    }
+    } */
 
 
-    .footer .box-container .box a {
+    /* .footer .box-container .box a {
         font-size: 6rem;
     }
 
     .footer .copyright {
         font-size: 8rem;
-    }
+    } */
     
 }
